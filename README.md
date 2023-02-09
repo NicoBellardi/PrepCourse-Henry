@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio de Prueba M2
+Prueba de como crear un repositorio y clonarlo desde github a mi computadora
